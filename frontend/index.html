@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Migration Assistant</title>
+</head>
+<body>
+    <h2>Upload .NET Project ZIP</h2>
+
+    <form id="uploadForm">
+        <input type="file" name="file" required /><br><br>
+        <textarea name="prompt" placeholder="Enter migration request..." rows="5" cols="50"></textarea><br><br>
+        <button type="submit">Analyze</button>
+    </form>
+
+    <pre id="result"></pre>
+
+    <script src="app.js"></script>
+</body>
+</html>
