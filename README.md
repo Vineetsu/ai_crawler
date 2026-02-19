@@ -1,3 +1,6 @@
+https://console.groq.com/keys
+https://chatgpt.com/share/69974380-6404-8008-b77e-3bf6eb1e248d
+
 # AI Migration Assistant
 
 ## Setup
@@ -379,3 +382,4 @@ If you want next, I can help you:
 * Improve migration intelligence logic
 
 Tell me what you want next 🚀
+
